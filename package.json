@@ -1,0 +1,28 @@
+{
+  "name": "swarmarbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redx94/SwarmArbitrage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/redx94/SwarmArbitrage/issues"
+  },
+  "homepage": "https://github.com/redx94/SwarmArbitrage#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^7.0.0",
+    "dotenv": "^17.3.1",
+    "ethers": "^6.16.0",
+    "hardhat": "^3.1.10"
+  }
+}
